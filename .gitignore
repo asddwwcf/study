@@ -1,0 +1,6 @@
+*.iml
+*.class
+.*
+!.gitignore
+target
+node_modules
